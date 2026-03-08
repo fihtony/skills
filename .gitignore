@@ -1,0 +1,38 @@
+# Dependencies
+node_modules/
+package-lock.json
+
+# Build output
+dist/
+out/
+
+.env
+venv/
+.venv/
+
+# VS Code extension packages
+*.vsix
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# TypeScript
+*.tsbuildinfo
+
+# Test artifacts
+.nyc_output/
+coverage/
+
+# Temporary files
+*.tmp
+*.bak
+*~
